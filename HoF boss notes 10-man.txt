@@ -1,0 +1,106 @@
+Garalon:
+  Prep:
+    - 2 tanks, 2-3 healers
+    - Mix of DPS
+  Mechs
+    - Pheromones:
+      - Debuff:
+        - Pungency (stacks for more damage)\
+        - 2m debuff
+        - You drop little pools of pheromones that does damage
+        - Switching is done by standing next to person with debuff and do what they do:
+          - Does crush when this happens, stun for 2s and do AoE to raid
+        - Leave pools on edge, and kite boss around room
+      - Ticking damage to raid
+      - Fixate
+    - Crush:
+      - Instakill if you are under him and he does it
+      - Activates with pheromones swap or someone being stupid and going in the purple circle
+    - Legs:
+      - Kill these:
+        - They do 3% of his health as damage to him
+        - Slow by 15%
+        - If you are in the circle by the leg you are hitting, +100% damage
+        - They respawn
+    - Furious swipe:
+      - Cone AoE in front of him
+      - If < 2 players get hit by this he gains a buff "Fury"
+        - Dmg and movement buff +10% (stackable)
+        - Lasts 30 seconds
+
+Amber Shaper Un'Sok:
+  Prep:
+  - 2 tanks
+  - 3 healers
+  - Mixed DPS
+  Phase 1:
+  - Amber Scalpel:
+    - Beam that chases player
+    - Kite it
+    - Leaves small damaging circles:
+      - Can create "living amber" adds
+      - Adds fixate on a random player
+      - When they die:
+        - 70k AoE damage in 8 yards
+        - Heal ambers in 8 yards for 40% of their max health
+        - They leave a damage puddle
+  - Parasitic Growth debuff:
+    - Low damage ticking
+    - 30 seconds
+    - If healed, the ticking amount increases
+  - Reshape Life:
+    - Turns a player into amber construct
+    - You can be attacked by other raid members
+    - Willpower bar that goes down slowly:
+      - If this hits 0% you lose control and effectively die
+    - You get 4 moves and an uncontrollable one:
+      - Amber Strike:
+        - 20% damage taken debuff (stacks)
+        - Main damage
+        - Interrupts casting
+      - Struggle for Control:
+        - Self-interrupt
+        - Costs willpower
+        - Increases damage you take by 100%
+      - Consume Amber:
+        - Consumes an amber puddle
+        - Big willpower regain
+        - Major healing
+        - Don't need to use in first phase
+      - Break free:
+        - Usable with < 20% health
+        - Lets you out of amber construct
+      - Amber Explosion (involuntary):
+        - Damage to raid
+        - Interruptable by Struggle for Control
+    - Amber Constructs lose 40 (of 100) willpower if they are hit by boss/adds (FAST DEATH)
+      - If a tank gets hit:
+        - Other tank must taunt
+        - dps cleaves their health down so they can escape:
+          - Optionally, wait until other tank is about to get Reshape Life to get a bigger damage debuff on boss, then dps them to low health
+  Phase 2 (70%):
+  - Boss is nearly immune
+  - Big add Amber Monstrosity, tank add and boss separately
+  - Reshape life not on tanks, but everyone else can get
+  - Can use all of Phase 1 mechs
+  - Amber Monstrosity:
+    - Interrupt Amber Explosion with an Amber Construct's Amber Strike
+  - Stomp:
+    - Does AoE damage in 15 yards
+    - Knockback
+    - Not too bad damage-wise
+  - Fling:
+    - Throwing tank at random player
+    - Player, tank, and people within 8 yards get stunned and take damage
+  Phase 3:
+  - No Amber Scalpel
+  - More Reshape Health
+  - Buff on boss: 50% more damage and attack speed (keep this in mind healers)
+  - Lots of pools:
+    - Bad for players
+    - Good for Amber Constructs
+  - Be very wary of your willpower
+
+
+
+      
