@@ -5,7 +5,7 @@ Garalon:
   Mechs
     - Pheromones:
       - Debuff:
-        - Pungency (stacks for more damage)\
+        - Pungency (stacks for more damage)
         - 2m debuff
         - You drop little pools of pheromones that does damage
         - Switching is done by standing next to person with debuff and do what they do:
@@ -94,13 +94,18 @@ Amber Shaper Un'Sok:
     - Player, tank, and people within 8 yards get stunned and take damage
   Phase 3:
   - No Amber Scalpel
-  - More Reshape Health
+  - More Reshape Life
   - Buff on boss: 50% more damage and attack speed (keep this in mind healers)
   - Lots of pools:
     - Bad for players
     - Good for Amber Constructs
   - Be very wary of your willpower
-
+  Generic fight-wide notes:
+  - Don't consume amber puddles in phase 1 or 2; they will be needed in phase 3. Just spam your amber strike on the boss to stack the debuff on him, the raid needs to cleave your health down (carefully or you will be taking an amber nap). When you get to < 20% health, break free.
+  - If you got amber scalpel, please get away from the raid in a timely manner. We don't want to be stepping in your puddles and the healers won't be happy.
+  - Please interrupt all the things with amber strike. When the amber monstrosity is about to do his keep amber strike off CD. Also, if it's a choice between stopping your explosion and stopping the monstrosity's explosion, keep in mind that larger things tend to do more damage than smaller (so stopping the add's over yours is better).
+  - Stay 8 yards apart. Keep adds spaced 8 yards apart. Keep add puddles away from the raid (but not so far that constructs can't get to them easily). There will be less damage and stunning to the raid, and less healing for the adds. Also, it decreases amber puddle density, so it's easier to not step in them.
+  - Tanks, remember to taunt when the other tank is becoming amber-ified, or you lose that other tank quickly. Also get out of the amber construct so you don't get 2 ambered tanks that either can't tank or die in 2-3 melee hits from the boss/adds.
 
 
       
